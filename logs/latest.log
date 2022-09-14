@@ -1,0 +1,1282 @@
+[02:38:30] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.9
+[02:38:30] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[02:38:36] [ForkJoinPool-1-worker-6/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 12
+[02:38:40] [ForkJoinPool-1-worker-1/WARN]: The mod "thonkutil-customization-v1" contains invalid entries in its mod json:
+- Unsupported root entry "disabled:mixins" at line 11 column 20
+[02:38:41] [main/WARN]: Warnings were found!
+ - Mod 'Debugify' (debugify) 2.5.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Deepslate Cutting' (deepslatecutting) 1.4.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[02:38:41] [main/INFO]: Loading 225 mods:
+	- additionalstructures 4.1.0
+	- adorn 3.6.1+1.19
+	- advanced_runtime_resource_pack 0.6.2 via woof
+	- adventurez 1.4.16
+	- another_furniture 2.0.3-1.19.2
+	- architects_palette 2.1.1
+	- architectury 6.2.43
+	- attributefix 17.1.2
+	- badpackets 0.2.0
+	- balm-fabric 4.5.2+0
+	- barteringstation 4.0.0
+	- bcc 2.0.2-build.16+mc1.19.1
+	- bclib 2.1.0
+	- betterend 2.1.0
+	- betternether 7.1.0
+	- betterstats 1.2.1
+	- bettertridents 4.0.1
+	- bhmenu 1.19-1.3
+	- biomemakeover 1.19.2-1.5.12
+	- bookshelf 16.1.5
+	- bosses_of_mass_destruction 1.4.2-1.19
+	- bountiful 3.0.0
+	- byg 2.0.0.10
+	- cardinal-components 5.0.1
+	- cardinal-components-base 5.0.2 via villagernames
+	- cardinal-components-block 5.0.1 via cardinal-components
+	- cardinal-components-chunk 5.0.1 via cardinal-components
+	- cardinal-components-entity 5.0.1 via cardinal-components
+	- cardinal-components-item 5.0.1 via cardinal-components
+	- cardinal-components-level 5.0.2 via villagernames
+	- cardinal-components-scoreboard 5.0.1 via cardinal-components
+	- cardinal-components-world 5.0.1 via cardinal-components
+	- carrier 1.11.0
+	- charm 4.2.2
+	- charmofundying 6.0.0+1.19.2
+	- chubby_stuff 2.1.0+1.19.2
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-config 8.1.77
+	- clumps 9.0.0+11
+	- collective-fabric 4.50
+	- com_electronwill_night-config_core 3.6.5 via forgeconfigapiport
+	- com_electronwill_night-config_toml 3.6.5 via forgeconfigapiport
+	- com_eliotlash_mclib_mclib 18 via geckolib3
+	- com_eliotlash_molang_molang 18 via geckolib3
+	- com_github_llamalad7_mixinextras 0.0.12 via debugify
+	- com_moandjiezana_toml_toml4j 0.7.2 via charm
+	- com_velocitypowered_velocity-native 3.1.2-SNAPSHOT via krypton
+	- comforts 6.0.0+1.19.2
+	- crawl 0.11.0
+	- darkpaintings 13.1.2
+	- dawn 3.5.0
+	- debugify 2.5.0
+	- decorative_blocks 3.0.0
+	- deepslatecutting 1.4.0
+	- diagonalfences 4.2.1
+	- dragonloot 1.1.2
+	- duckling 2.0.7
+	- dungeons_arise 2.1.51
+	- easymagic 4.3.2
+	- echoingdepths 1.0.0-1.19.2
+	- ecologics 2.1.9
+	- edenring 0.6.4
+	- elytraslot 6.0.0+1.19.2
+	- error_notifier 1.0.9 via roughlyenoughitems
+	- everycomp 1.19.2-2.0.4
+	- expandeddelight 0.2.2
+	- extended_armor_bars 1.2.1
+	- fabric-api 0.60.0+1.19.2
+	- fabric-api-base 0.4.11+e62f51a390 via fabric-api
+	- fabric-api-lookup-api-v1 1.6.9+9ff28f4090 via fabric-api
+	- fabric-biome-api-v1 9.0.17+aeb40ebe90 via fabric-api
+	- fabric-command-api-v1 1.2.11+f71b366f90 via fabric-api
+	- fabric-command-api-v2 2.1.7+0c17ea9690 via fabric-api
+	- fabric-commands-v0 0.2.28+df3654b390 via fabric-api
+	- fabric-containers-v0 0.1.34+df3654b390 via fabric-api
+	- fabric-content-registries-v0 3.2.3+aeb40ebe90 via fabric-api
+	- fabric-convention-tags-v1 1.1.1+7cd20a1490 via fabric-api
+	- fabric-crash-report-info-v1 0.2.5+aeb40ebe90 via fabric-api
+	- fabric-data-generation-api-v1 5.1.8+a680b9b490 via fabric-api
+	- fabric-dimensions-v1 2.1.30+aeb40ebe90 via fabric-api
+	- fabric-entity-events-v1 1.4.18+9ff28f4090 via fabric-api
+	- fabric-events-interaction-v0 0.4.28+aeb40ebe90 via fabric-api
+	- fabric-events-lifecycle-v0 0.2.28+df3654b390 via fabric-api
+	- fabric-game-rule-api-v1 1.0.21+aeb40ebe90 via fabric-api
+	- fabric-item-api-v1 1.5.7+35a03c4390 via fabric-api
+	- fabric-item-groups-v0 0.3.28+aeb40ebe90 via fabric-api
+	- fabric-language-kotlin 1.8.3+kotlin.1.7.10
+	- fabric-lifecycle-events-v1 2.1.2+aeb40ebe90 via fabric-api
+	- fabric-loot-api-v2 1.1.3+83a8659290 via fabric-api
+	- fabric-loot-tables-v1 1.1.6+9e7660c690 via fabric-api
+	- fabric-message-api-v1 5.0.3+176380a290 via fabric-api
+	- fabric-mining-level-api-v1 2.1.14+33fbc73890 via fabric-api
+	- fabric-networking-api-v1 1.2.4+5eb68ef290 via fabric-api
+	- fabric-networking-v0 0.3.21+df3654b390 via fabric-api
+	- fabric-object-builder-api-v1 4.0.11+aeb40ebe90 via fabric-api
+	- fabric-particles-v1 1.0.10+aeb40ebe90 via fabric-api
+	- fabric-registry-sync-v0 0.9.24+aeb40ebe90 via fabric-api
+	- fabric-rendering-data-attachment-v1 0.3.14+aeb40ebe90 via fabric-api
+	- fabric-rendering-fluids-v1 3.0.7+aeb40ebe90 via fabric-api
+	- fabric-resource-conditions-api-v1 2.0.11+e62f51a390 via fabric-api
+	- fabric-resource-loader-v0 0.6.1+aeb40ebe90 via fabric-api
+	- fabric-screen-handler-api-v1 1.2.13+9ff28f4090 via fabric-api
+	- fabric-transfer-api-v1 2.0.11+83a8659290 via fabric-api
+	- fabric-transitive-access-wideners-v1 1.3.0+42d99c3290 via fabric-api
+	- fabricloader 0.14.9
+	- fake-player-api 0.4.0 via the_bumblezone
+	- fallingtree 3.10.0
+	- farmersdelight 1.19-1.3.3
+	- farmersknives 2.1
+	- ferritecore 4.2.1
+	- fiber 0.23.0-2 via collective-fabric
+	- forgeconfigapiport 4.2.6
+	- frame 0.26.1+1.19-fabric
+	- frame-api-base 0.2.1+906ebc04a9 via frame
+	- frame-blocks-v0 0.1.3+233e7428a9 via frame
+	- frame-config-v0 0.3.1+0fa45150a9 via frame
+	- frame-content-registries-v0 0.4.0+2876b511a9 via frame
+	- frame-enchantments-v0 0.1.0+4093105da9 via frame
+	- frame-game-rules-v0 0.2.4+e7ce56a6a9 via frame
+	- frame-items-v0 0.1.3+906ebc04a9 via frame
+	- frame-loot-tables-v0 0.1.4+4f7341eca9 via frame
+	- frame-registries-v0 0.1.1+0e0ec74ea9 via frame
+	- frame-rendering-v0 0.1.5+906ebc04a9 via frame
+	- frame-tabbed-item-groups-v0 0.2.4+0aca9b56a9 via frame
+	- frame-toymaker-v0 0.6.1+b13741c3a9 via frame
+	- frame-woods-v0 0.2.1+6a33fbada9 via frame
+	- friendsandfoes 1.5.9
+	- fwaystones 3.0.3+mc1.19.2
+	- galosphere 1.19.1-1.1.2
+	- geckolib3 3.1.17
+	- geodes 1.5
+	- go-fish 1.6.0-1.19.1
+	- goblintraders 1.5.2
+	- goodall 1.1.1
+	- iceberg 1.0.46
+	- inmis 2.7.0-1.19
+	- inmisaddon 1.0.1
+	- jamlib 0.4.4
+	- java 18
+	- kambrik 4.0-1.19.2
+	- kleeslabs 12.1.0
+	- krypton 0.2.1
+	- lithium 0.8.3
+	- maelstrom_library 1.3-1.19-pre1 via bosses_of_mass_destruction
+	- magnumtorch 4.2.0
+	- mavm 1.1.0
+	- maybe-data 1.3.2-1.19-rc2 via wolveswitharmor
+	- memoryleakfix 1.19.1-0.7.0
+	- midnightlib 0.6.0
+	- minecraft 1.19.2
+	- mm 2.3 via crawl
+	- modid 2.4.2+1.19.2
+	- moonlight 1.19.2-2.0.26
+	- more_babies 0.5.4
+	- multipart_entities 1.2-1.19-pre1 via bosses_of_mass_destruction
+	- mvs 2.5.8
+	- naturalist 2.1.1
+	- naturescompass 1.19.2-2.0.4-fabric
+	- nears 1.2.3
+	- nochatreports 1.19.2-v1.11.2
+	- omega-config 1.2.3-1.18.1 via inmis
+	- onsoulfire 1.19-2
+	- openloader 15.0.1
+	- openpartiesandclaims 0.10.1
+	- org_jetbrains_kotlin_kotlin-reflect 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_atomicfu-jvm 0.18.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.4.0 via fabric-language-kotlin
+	- oxidized 1.7.2
+	- paintings 10.2.0.0
+	- patchouli 1.19.2-76-FABRIC
+	- pinlib 0.1.3+1.19 via fwaystones
+	- polymorph 0.45.0+1.19.2
+	- puzzleslib 4.3.1
+	- quartzelv 2.1.5+1.19
+	- repurposed_structures 6.1.1+1.19
+	- rightclickharvest 3.0.1
+	- roughlyenoughitems 9.1.530
+	- roughlyenoughprofessions 1.1.2
+	- roughlyenoughresources 2.6.0
+	- seasons 1.4-BETA+1.19
+	- spectrelib 0.8.1+1.19 via comforts
+	- spirit 2.1.12
+	- starlight 1.1.1+fabric.ae22326
+	- starterkit-fabric 3.7
+	- static-content 1.0.1-1.16.2 via wolveswitharmor
+	- staticdata 1.1.2 via static-content
+	- structory 1.0.1
+	- supplementaries 1.19.2-2.1.2
+	- terrablender 2.0.1.127
+	- the_bumblezone 6.1.8+1.19.2
+	- thonkutil 2.15.4+1.19
+	- thonkutil-base 1.13.2+4a8c408a57 via thonkutil
+	- thonkutil-capes-v1 1.4.2+3eb2749857 via thonkutil
+	- thonkutil-customization-v1 1.1.2+8ff533c957 via thonkutil
+	- thonkutil-legacy 1.1.2+5d4263f557 via thonkutil
+	- thonkutil-modchecker-v1 1.1.3+bd4b387957 via thonkutil
+	- thonkutil-potions-v0 1.5.2+8ff533c957 via thonkutil
+	- thonkutil-trades-v1 1.2.2+8ff533c957 via thonkutil
+	- toms_storage 1.4.0-pre1
+	- toolstats 12.0.2
+	- tradingpost 4.2.0
+	- transparent 5.1.0
+	- trinkets 3.4.0
+	- twigs 2.0.0-beta.9+1.19-fabric
+	- universal_ores 1.4.2
+	- villagernames 4.0.7
+	- visualworkbench 4.2.0
+	- voidtotem 2.1.0
+	- voidz 1.0.9
+	- windchimes 1.2.1
+	- wolveswitharmor 1.8.0-1.19
+	- woof 1.1.2-1.19
+	- wthit 5.12.0
+	- xaerominimap 22.13.2
+	- xaeroworldmap 1.26.6
+	- xp_storage 1.4.3+1.19
+	- xp_storage_trinkets 0.1+1.19
+[02:38:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/me/Downloads/Better+MC+Server+Pack+FABRIC+1.19.2+v4/Better%20MC%20Server%20Pack%20FABRIC%201.19.2/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[02:38:45] [main/INFO]: Compatibility level set to JAVA_16
+[02:38:45] [main/INFO]: Compatibility level set to JAVA_17
+[02:38:46] [main/WARN]: Reference map 'another_furniture-fabric-fabric-refmap.json' for another_furniture.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:47] [main/INFO]: [MixinConfig] Not adding no_chat_verified_nag.DisableToastMixin
+[02:38:47] [main/INFO]: [MixinConfig] Not adding respawn_anchor_in_the_end.CheckIfCanSetSpawnMixin
+[02:38:47] [main/INFO]: [MixinConfig] Not adding no_cured_villager_discount.BypassReputationGossipMixin
+[02:38:47] [main/INFO]: [MixinConfig] Not adding helper.CheckEnchantingPowerMixin
+[02:38:47] [main/INFO]: [MixinConfig] Not adding no_treasure_enchantment_trading.CheckIfTradeableMixin
+[02:38:47] [main/INFO]: Preloading Debugify
+[02:38:47] [main/INFO]: Done.
+[02:38:47] [main/WARN]: Reference map 'descent-into-depths-refmap.json' for descent-into-depths.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:47] [main/WARN]: Reference map 'everycomp.refmap.json' for everycomp.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:47] [main/WARN]: Reference map 'everycomp.refmap.json' for everycomp-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:47] [main/WARN]: Reference map 'goodall-fabric-refmap.json' for goodall.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:48] [main/INFO]: Loaded configuration file for Lithium: 94 options available, 2 override(s) found
+[02:38:48] [main/WARN]: Reference map 'mvs-refmap.json' for mvs.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:48] [main/WARN]: Reference map 'nears-fabric-1.19-refmap.json' for nears.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:48] [main/WARN]: Reference map 'RoughlyEnoughProfessions-fabric-1.19-refmap.json' for roughlyenoughprofessions.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:48] [main/WARN]: Reference map 'static-content-refmap.json' for static-content.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:48] [main/WARN]: Reference map 'transparent-fabric-refmap.json' for transparent.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:38:52] [main/WARN]: Error loading class: net/minecraft/class_647 (java.lang.ClassNotFoundException: net/minecraft/class_647)
+[02:38:52] [main/WARN]: @Mixin target net.minecraft.class_647 was not found galosphere.mixins.json:access.BreakingItemParticleAccessor from mod galosphere
+[02:38:52] [main/WARN]: Error loading class: net/minecraft/class_329 (java.lang.ClassNotFoundException: net/minecraft/class_329)
+[02:38:52] [main/WARN]: @Mixin target net.minecraft.class_329 was not found galosphere.mixins.json:access.GuiAccessor from mod galosphere
+[02:38:52] [main/WARN]: Error loading class: net/minecraft/class_711 (java.lang.ClassNotFoundException: net/minecraft/class_711)
+[02:38:52] [main/WARN]: @Mixin target net.minecraft.class_711 was not found galosphere.mixins.json:access.SpellParticleAccessor from mod galosphere
+[02:38:52] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[02:38:52] [main/WARN]: @Mixin target net.minecraft.class_906 was not found go-fish.mixins.json:FishingBobberEntityRendererMixin from mod go-fish
+[02:38:52] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
+[02:38:52] [main/WARN]: @Mixin target net.minecraft.class_702 was not found go-fish.mixins.json:ParticleManagerMixin from mod go-fish
+[02:38:52] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[02:38:52] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found inmis.mixins.json:client.PlayerEntityFeatureMixin from mod inmis
+[02:38:52] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[02:38:52] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[02:38:54] [main/INFO]: I used the json to destroy the json
+[02:38:56] [main/INFO]: Kambrik Says Hello!
+[02:39:03] [main/INFO]: Mixing server.MixinPlayer from nochatreports.mixins.json into net.minecraft.class_1657
+[02:39:05] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[02:39:05] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[02:39:05] [main/INFO]: [bclib] Added Config bclib.recipes to auto sync (file hash)
+[02:39:05] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[02:39:13] [main/INFO]: Building unoptimized datafixer
+[02:39:22] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (4eed96ca)
+    biomes     = 5
+    namespaces = minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[02:39:22] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (5ee84545)
+    biomes     = 5
+    namespaces = minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 0
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:39:22] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (6140245e)
+    biomes     = 5
+    namespaces = minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=square}
+[02:39:22] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (58f05f55)
+    biomes     = 5
+    namespaces = minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 0
+    config     = BCLEndBiomeSourceConfig{mapVersion=square, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.main to auto sync (file hash)
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.generator to auto sync (file hash)
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.blocks to auto sync (file hash)
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.items to auto sync (file hash)
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.biomes to auto sync (file hash)
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.mobs to auto sync (file hash)
+[02:39:24] [main/INFO]: [bclib] Added Config betternether.recipes to auto sync (file hash)
+[02:39:25] [main/ERROR]: Entity goblintraders:goblin_trader has no attributes
+[02:39:25] [main/ERROR]: Entity goblintraders:vein_goblin_trader has no attributes
+[02:39:27] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from nochatreports.mixins.json into net.minecraft.class_3244
+[02:39:28] [main/INFO]: Constructing common components for mod barteringstation
+[02:39:29] [main/INFO]: Creating capability controller for mod id barteringstation
+[02:39:29] [main/INFO]: Loading config file
+[02:39:29] [main/INFO]: Config file loaded
+[02:39:29] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[02:39:29] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[02:39:29] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[02:39:29] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[02:39:29] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[02:39:29] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[02:39:31] [main/INFO]: [betternether] =^..^=    BetterNether for 1.19    =^..^=
+[02:39:32] [main/INFO]: Constructing common components for mod bettertridents
+[02:39:32] [main/WARN]: Configuration file .\config\bettertridents-common.toml is not correct. Correcting
+[02:39:32] [main/WARN]: Incorrect key trident_fragment_drop was corrected from null to its default, true. 
+[02:39:32] [main/INFO]: Loading common config for bettertridents
+[02:39:32] [main/ERROR]: No data fixer registered for loyal_item
+[02:39:32] [main/ERROR]: No data fixer registered for loyal_experience_orb
+[02:39:32] [main/INFO]: Creating capability controller for mod id bettertridents
+[02:39:33] [main/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
+[02:39:33] [main/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[02:39:34] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[02:39:36] [main/INFO]: Common init
+[02:39:37] [main/INFO]: BYG registries bootstrapped
+[02:39:39] [main/ERROR]: No data fixer registered for byg:boat
+[02:39:39] [main/ERROR]: No data fixer registered for byg:chest_boat
+[02:39:39] [main/INFO]: Initializing BYG network...
+[02:39:39] [main/INFO]: Initialized BYG network!
+[02:39:39] [main/INFO]: Oh The Biomes You'll Go (BYG) was initialized from "Fabric Mod Initializer"
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled AerialAffinityEnchantment
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled AllowTooExpensive
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled AmethystNoteBlock
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Atlases
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled AutoRestock
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled AzaleaWood
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled BatBuckets
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled BeaconsHealMobs
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Beekeepers
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled BlockOfEnderPearls
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled BlockOfGunpowder
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled BlockOfSugar
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Bookcases
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled CaveSpidersDropCobwebs
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Chairs
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ChickensDropFeathers
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ClearItemFrames
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled CollectionEnchantment
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ColoredBundles
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ColoredNetherPortals
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled CompassOverlay
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled CoralSeaLanterns
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled CoralSquids
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Core
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled DiscsStopBackgroundMusic
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled EbonyWood
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled EditableSigns
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled EndermitePowder
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ExtraBoats
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ExtraRecipes
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ExtraTrades
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ExtractEnchantments
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled GentlePotionParticles
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled GoatsDropMutton
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled GrindableArmor
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled HoverSorting
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled HusksDropSand
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled HusksSpawnUnderground
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ImprovedFortressLoot
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ImprovedMansionLoot
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ImprovedMineshafts
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled InventoryTidying
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Kilns
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled LavaBucketDestroysItems
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled LowerNoteblockPitch
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Lumberjacks
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled MapTooltip
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Mooblooms
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled MorePortalFrames
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled NoCropTrampling
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled NoPetDamage
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled NoPotionGlint
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled NoSpyglassScope
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled OpenBothDoors
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ParrotsStayOnShoulder
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled PathToDirt
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled PlayerPressurePlates
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled PortableCrafting
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled QuickReplant
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled RaidHorns
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled RedstoneLanterns
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled RedstoneSand
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled RepairElytraFromLeather
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled RepairNetheriteFromScrap
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled RepairTridentsFromShards
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ShowRepairCost
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ShulkerBoxDragDrop
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled ShulkerBoxTooltip
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled SnowAccumulation
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled StackableEnchantedBooks
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled StackablePotions
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled StackableStews
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled StraysDropBlueIce
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled StraysSpawnUnderground
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled StrongerAnvils
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled TotemOfPreserving
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled TotemWorksFromInventory
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantBarrels
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantBars
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantBookshelves
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantChains
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantChests
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantLadders
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantLanterns
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VariantMobTextures
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled VillagersFollowEmeraldBlocks
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled WanderingTraderMaps
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled WeatheringIron
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled WitchesDropLuck
+[02:39:40] [main/INFO]: [ModuleLoader] Enabled Woodcutters
+[02:39:40] [main/INFO]: [ModuleLoader] Running AerialAffinityEnchantment
+[02:39:40] [main/INFO]: [ModuleLoader] Running AllowTooExpensive
+[02:39:40] [main/INFO]: [ModuleLoader] Running AmethystNoteBlock
+[02:39:40] [main/INFO]: [ModuleLoader] Running Atlases
+[02:39:40] [main/INFO]: [ModuleLoader] Running AutoRestock
+[02:39:40] [main/INFO]: [ModuleLoader] Running AzaleaWood
+[02:39:40] [main/INFO]: [ModuleLoader] Running BatBuckets
+[02:39:40] [main/INFO]: [ModuleLoader] Running BeaconsHealMobs
+[02:39:40] [main/INFO]: [ModuleLoader] Running Beekeepers
+[02:39:40] [main/INFO]: [ModuleLoader] Running BlockOfEnderPearls
+[02:39:40] [main/INFO]: [ModuleLoader] Running BlockOfGunpowder
+[02:39:40] [main/INFO]: [ModuleLoader] Running BlockOfSugar
+[02:39:40] [main/INFO]: [ModuleLoader] Running Bookcases
+[02:39:40] [main/INFO]: [ModuleLoader] Running CaveSpidersDropCobwebs
+[02:39:40] [main/INFO]: [ModuleLoader] Running Chairs
+[02:39:40] [main/INFO]: [ModuleLoader] Running ChickensDropFeathers
+[02:39:40] [main/INFO]: [ModuleLoader] Running ClearItemFrames
+[02:39:40] [main/INFO]: [ModuleLoader] Running CollectionEnchantment
+[02:39:40] [main/INFO]: [ModuleLoader] Running ColoredBundles
+[02:39:40] [main/INFO]: [ModuleLoader] Running ColoredNetherPortals
+[02:39:40] [main/INFO]: [ModuleLoader] Running CompassOverlay
+[02:39:40] [main/INFO]: [ModuleLoader] Running CoralSeaLanterns
+[02:39:40] [main/INFO]: [ModuleLoader] Running CoralSquids
+[02:39:40] [main/INFO]: [ModuleLoader] Running Core
+[02:39:40] [main/INFO]: [ModuleLoader] Running DiscsStopBackgroundMusic
+[02:39:40] [main/INFO]: [ModuleLoader] Running EbonyWood
+[02:39:40] [main/INFO]: [ModuleLoader] Running EditableSigns
+[02:39:40] [main/INFO]: [ModuleLoader] Running EndermitePowder
+[02:39:40] [main/INFO]: [ModuleLoader] Running ExtraBoats
+[02:39:40] [main/INFO]: [ModuleLoader] Running ExtraRecipes
+[02:39:40] [main/INFO]: [ModuleLoader] Running ExtraTrades
+[02:39:40] [main/INFO]: [ModuleLoader] Running ExtractEnchantments
+[02:39:40] [main/INFO]: [ModuleLoader] Running GentlePotionParticles
+[02:39:40] [main/INFO]: [ModuleLoader] Running GoatsDropMutton
+[02:39:40] [main/INFO]: [ModuleLoader] Running GrindableArmor
+[02:39:40] [main/INFO]: [ModuleLoader] Running HoverSorting
+[02:39:40] [main/INFO]: [ModuleLoader] Running HusksDropSand
+[02:39:40] [main/INFO]: [ModuleLoader] Running HusksSpawnUnderground
+[02:39:40] [main/INFO]: [ModuleLoader] Running ImprovedFortressLoot
+[02:39:40] [main/INFO]: [ModuleLoader] Running ImprovedMansionLoot
+[02:39:40] [main/INFO]: [ModuleLoader] Running ImprovedMineshafts
+[02:39:40] [main/INFO]: [ModuleLoader] Running InventoryTidying
+[02:39:40] [main/INFO]: [ModuleLoader] Running Kilns
+[02:39:40] [main/INFO]: [ModuleLoader] Running LavaBucketDestroysItems
+[02:39:40] [main/INFO]: [ModuleLoader] Running LowerNoteblockPitch
+[02:39:40] [main/INFO]: [ModuleLoader] Running Lumberjacks
+[02:39:40] [main/INFO]: [ModuleLoader] Running MapTooltip
+[02:39:40] [main/INFO]: [ModuleLoader] Running Mooblooms
+[02:39:40] [main/INFO]: [ModuleLoader] Running MorePortalFrames
+[02:39:40] [main/INFO]: [ModuleLoader] Running NoCropTrampling
+[02:39:40] [main/INFO]: [ModuleLoader] Running NoPetDamage
+[02:39:40] [main/INFO]: [ModuleLoader] Running NoPotionGlint
+[02:39:40] [main/INFO]: [ModuleLoader] Running NoSpyglassScope
+[02:39:40] [main/INFO]: [ModuleLoader] Running OpenBothDoors
+[02:39:40] [main/INFO]: [ModuleLoader] Running ParrotsStayOnShoulder
+[02:39:40] [main/INFO]: [ModuleLoader] Running PathToDirt
+[02:39:40] [main/INFO]: [ModuleLoader] Running PlayerPressurePlates
+[02:39:40] [main/INFO]: [ModuleLoader] Running PortableCrafting
+[02:39:40] [main/INFO]: [ModuleLoader] Running QuickReplant
+[02:39:40] [main/INFO]: [ModuleLoader] Running RaidHorns
+[02:39:40] [main/INFO]: [ModuleLoader] Running RedstoneLanterns
+[02:39:40] [main/INFO]: [ModuleLoader] Running RedstoneSand
+[02:39:40] [main/INFO]: [ModuleLoader] Running RepairElytraFromLeather
+[02:39:40] [main/INFO]: [ModuleLoader] Running RepairNetheriteFromScrap
+[02:39:40] [main/INFO]: [ModuleLoader] Running RepairTridentsFromShards
+[02:39:40] [main/INFO]: [ModuleLoader] Running ShowRepairCost
+[02:39:40] [main/INFO]: [ModuleLoader] Running ShulkerBoxDragDrop
+[02:39:40] [main/INFO]: [ModuleLoader] Running ShulkerBoxTooltip
+[02:39:40] [main/INFO]: [ModuleLoader] Running SnowAccumulation
+[02:39:40] [main/INFO]: [ModuleLoader] Running StackableEnchantedBooks
+[02:39:40] [main/INFO]: [ModuleLoader] Running StackablePotions
+[02:39:40] [main/INFO]: [ModuleLoader] Running StackableStews
+[02:39:40] [main/INFO]: [ModuleLoader] Running StraysDropBlueIce
+[02:39:40] [main/INFO]: [ModuleLoader] Running StraysSpawnUnderground
+[02:39:40] [main/INFO]: [ModuleLoader] Running StrongerAnvils
+[02:39:40] [main/INFO]: [ModuleLoader] Running TotemOfPreserving
+[02:39:40] [main/INFO]: [ModuleLoader] Running TotemWorksFromInventory
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantBarrels
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantBars
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantBookshelves
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantChains
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantChests
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantLadders
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantLanterns
+[02:39:40] [main/INFO]: [ModuleLoader] Running VariantMobTextures
+[02:39:40] [main/INFO]: [ModuleLoader] Running VillagersFollowEmeraldBlocks
+[02:39:40] [main/INFO]: [ModuleLoader] Running WanderingTraderMaps
+[02:39:40] [main/INFO]: [ModuleLoader] Running WeatheringIron
+[02:39:40] [main/INFO]: [ModuleLoader] Running WitchesDropLuck
+[02:39:40] [main/INFO]: [ModuleLoader] Running Woodcutters
+[02:39:41] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 4.50.
+[02:39:41] [main/INFO]: Saving config because the loaded bug fixes are different to stored json.
+[02:39:41] [main/INFO]: Saving Debugify
+[02:39:41] [main/INFO]: Enabled 2/35 bugs!
+[02:39:41] [main/INFO]: Successfully Debugify'd your game!
+[02:39:41] [main/ERROR]: No data fixer registered for decorative_blocks:dummy
+[02:39:41] [main/INFO]: Unable to find config file for DeepslateCutting, creating
+[02:39:41] [main/INFO]: Loaded Config! Regular deepslate extras are OFF
+[02:39:41] [main/INFO]: Constructing common components for mod diagonalfences
+[02:39:41] [main/INFO]: Constructing common components for mod easymagic
+[02:39:42] [main/INFO]: [bclib] Added Config edenring.blocks to auto sync (file hash)
+[02:39:42] [main/INFO]: [bclib] Added Config edenring.items to auto sync (file hash)
+[02:39:42] [main/INFO]: [bclib] Added Config edenring.entities to auto sync (file hash)
+[02:39:42] [main/INFO]: [bclib] Added Config edenring.recipes to auto sync (file hash)
+[02:39:42] [main/INFO]: [bclib] Added Config edenring.recipes to auto sync (file hash)
+[02:39:42] [main/INFO]: [bclib] Added Config edenring.biomes to auto sync (file hash)
+[02:39:43] [main/INFO]: Loaded EveryCompat Twigs Module
+[02:39:43] [main/INFO]: Loaded EveryCompat Another Furniture Module
+[02:39:43] [main/INFO]: Loaded EveryCompat Architects Palette Module
+[02:39:43] [main/INFO]: Loaded EveryCompat Farmersdelight Module
+[02:39:44] [main/INFO]: [STDOUT]: Generating config file for mod: toughness bars.
+[02:39:45] [main/INFO]: Farmer's Knives loaded!
+[02:39:45] [main/INFO]: Is initializing.
+[02:39:45] [main/INFO]: Found error with config. Using default config.
+[02:39:45] [ForkJoinPool.commonPool-worker-1/INFO]: [Friends&Foes] An update is available! You're using 1.5.9 version but the latest version is 1.5.10!
+[02:39:46] [main/INFO]: Registering new static map marker with id [pinlib:default]
+[02:39:46] [main/INFO]: Registering new dynamic map marker with id [fwaystones:waystone]
+[02:39:47] [main/INFO]: Has successfully been initialized.
+[02:39:47] [main/INFO]: If you have any issues or questions, feel free to join our Discord: https://discord.gg/vMjzgS4.
+[02:39:49] [main/ERROR]: No data fixer registered for silver_bomb
+[02:39:49] [main/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/biome / galosphere:crystal_canyons]' to registry
+[02:39:50] [main/INFO]: Beginning More Geodes initialization
+[02:39:51] [main/INFO]: More Geodes initialized!
+[02:39:54] [main/INFO]: Mod initialized!
+[02:39:55] [main/INFO]: Compression will use Java, encryption will use Java
+[02:39:55] [main/INFO]: Constructing common components for mod magnumtorch
+[02:39:55] [main/INFO]: Definitely not up to no good
+[02:40:02] [main/INFO]: near features initialized.
+[02:40:02] [main/INFO]: Let there be nears!
+[02:40:02] [main/INFO]: KONNICHIWA ZA WARUDO!
+[02:40:02] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[02:40:02] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[02:40:02] [main/INFO]: loading json file and contents for paintings.
+[02:40:02] [main/INFO]: Copying Over Base Template to /paintings
+[02:40:03] [main/INFO]: Adding base paintings
+[02:40:03] [main/INFO]: resolving paintings.json ...
+[02:40:03] [main/INFO]: Loaded json painting abstract_blue , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting abstract_rainbow , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting abstract_red , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting abstract_sunset , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting arachnophobe , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting barn_owl , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting big_z , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting blue_bird , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting bluesclues , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting borgia , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting cane , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting cat_black , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting cat_gray , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting cat_orange , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting cat , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting colorful_squares , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting crest , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting danger_zone , 32 x 32
+[02:40:03] [main/INFO]: Loaded json painting decorative_gun , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting exit_down , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting exit_up , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting exit_left , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting exit_right , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_bat , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_chicken , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_cow , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_creeper , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_dog , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_enderman , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_pig , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_pigman , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_silverfish , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_skeleton , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_squid , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting face_zombie , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting fishes , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting flowers , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting fruits , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting ghost , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting glowlamp , 32 x 32
+[02:40:03] [main/INFO]: Loaded json painting glowstone_hourglass , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting iluvmc , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting link , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting mine_prosperity , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting no_trespassing_for_mobs , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting ocelot , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting penguin , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting pig_on_a_cliff , 32 x 32
+[02:40:03] [main/INFO]: Loaded json painting pkmn_blue , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting pkmn_red , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting pkmn_green , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting plains_hut , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting portrait_2 , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting portrait , 32 x 32
+[02:40:03] [main/INFO]: Loaded json painting prison , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting prosperity , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting rest , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting skeleton , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting sky , 32 x 32
+[02:40:03] [main/INFO]: Loaded json painting skyblock , 32 x 32
+[02:40:03] [main/INFO]: Loaded json painting snake , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting snow_landscape , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting subaraki , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting synth_city , 16 x 16
+[02:40:03] [main/INFO]: Loaded json painting tapistry_a , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting tapistry_b , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting tapistry_purple , 16 x 32
+[02:40:03] [main/INFO]: Loaded json painting torched , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting waterfall , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting whale , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting wheat_field , 32 x 16
+[02:40:03] [main/INFO]: Loaded json painting wolf_in_wheat , 32 x 16
+[02:40:03] [main/WARN]: ************************************
+[02:40:03] [main/WARN]: !*!*!*!*!
+[02:40:03] [main/ERROR]: A fatal error occurred reading the resource pack directory
+[02:40:03] [main/ERROR]: SKIPPING ENTIRE PROCESS
+[02:40:03] [main/WARN]: !*!*!*!*!
+[02:40:03] [main/WARN]: ************************************
+[02:40:03] [main/WARN]: java.nio.file.NoSuchFileException: .\resourcepacks
+[02:40:03] [main/INFO]: Registered painting abstract_blue
+[02:40:03] [main/INFO]: Registered painting abstract_rainbow
+[02:40:03] [main/INFO]: Registered painting abstract_red
+[02:40:03] [main/INFO]: Registered painting abstract_sunset
+[02:40:03] [main/INFO]: Registered painting arachnophobe
+[02:40:03] [main/INFO]: Registered painting barn_owl
+[02:40:03] [main/INFO]: Registered painting big_z
+[02:40:03] [main/INFO]: Registered painting blue_bird
+[02:40:03] [main/INFO]: Registered painting bluesclues
+[02:40:03] [main/INFO]: Registered painting borgia
+[02:40:03] [main/INFO]: Registered painting cane
+[02:40:03] [main/INFO]: Registered painting cat_black
+[02:40:03] [main/INFO]: Registered painting cat_gray
+[02:40:03] [main/INFO]: Registered painting cat_orange
+[02:40:03] [main/INFO]: Registered painting cat
+[02:40:03] [main/INFO]: Registered painting colorful_squares
+[02:40:03] [main/INFO]: Registered painting crest
+[02:40:03] [main/INFO]: Registered painting danger_zone
+[02:40:03] [main/INFO]: Registered painting decorative_gun
+[02:40:03] [main/INFO]: Registered painting exit_down
+[02:40:03] [main/INFO]: Registered painting exit_up
+[02:40:03] [main/INFO]: Registered painting exit_left
+[02:40:03] [main/INFO]: Registered painting exit_right
+[02:40:03] [main/INFO]: Registered painting face_bat
+[02:40:03] [main/INFO]: Registered painting face_chicken
+[02:40:03] [main/INFO]: Registered painting face_cow
+[02:40:03] [main/INFO]: Registered painting face_creeper
+[02:40:03] [main/INFO]: Registered painting face_dog
+[02:40:03] [main/INFO]: Registered painting face_enderman
+[02:40:03] [main/INFO]: Registered painting face_pig
+[02:40:03] [main/INFO]: Registered painting face_pigman
+[02:40:03] [main/INFO]: Registered painting face_silverfish
+[02:40:03] [main/INFO]: Registered painting face_skeleton
+[02:40:03] [main/INFO]: Registered painting face_squid
+[02:40:03] [main/INFO]: Registered painting face_zombie
+[02:40:03] [main/INFO]: Registered painting fishes
+[02:40:03] [main/INFO]: Registered painting flowers
+[02:40:03] [main/INFO]: Registered painting fruits
+[02:40:03] [main/INFO]: Registered painting ghost
+[02:40:03] [main/INFO]: Registered painting glowlamp
+[02:40:03] [main/INFO]: Registered painting glowstone_hourglass
+[02:40:03] [main/INFO]: Registered painting iluvmc
+[02:40:03] [main/INFO]: Registered painting link
+[02:40:03] [main/INFO]: Registered painting mine_prosperity
+[02:40:03] [main/INFO]: Registered painting no_trespassing_for_mobs
+[02:40:03] [main/INFO]: Registered painting ocelot
+[02:40:03] [main/INFO]: Registered painting penguin
+[02:40:03] [main/INFO]: Registered painting pig_on_a_cliff
+[02:40:03] [main/INFO]: Registered painting pkmn_blue
+[02:40:03] [main/INFO]: Registered painting pkmn_red
+[02:40:03] [main/INFO]: Registered painting pkmn_green
+[02:40:03] [main/INFO]: Registered painting plains_hut
+[02:40:03] [main/INFO]: Registered painting portrait_2
+[02:40:03] [main/INFO]: Registered painting portrait
+[02:40:03] [main/INFO]: Registered painting prison
+[02:40:03] [main/INFO]: Registered painting prosperity
+[02:40:03] [main/INFO]: Registered painting rest
+[02:40:03] [main/INFO]: Registered painting skeleton
+[02:40:03] [main/INFO]: Registered painting sky
+[02:40:03] [main/INFO]: Registered painting skyblock
+[02:40:03] [main/INFO]: Registered painting snake
+[02:40:03] [main/INFO]: Registered painting snow_landscape
+[02:40:03] [main/INFO]: Registered painting subaraki
+[02:40:03] [main/INFO]: Registered painting synth_city
+[02:40:03] [main/INFO]: Registered painting tapistry_a
+[02:40:03] [main/INFO]: Registered painting tapistry_b
+[02:40:03] [main/INFO]: Registered painting tapistry_purple
+[02:40:03] [main/INFO]: Registered painting torched
+[02:40:03] [main/INFO]: Registered painting waterfall
+[02:40:03] [main/INFO]: Registered painting whale
+[02:40:03] [main/INFO]: Registered painting wheat_field
+[02:40:03] [main/INFO]: Registered painting wolf_in_wheat
+[02:40:04] [main/INFO]: Constructing common components for mod puzzleslib
+[02:40:04] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[02:40:04] [main/INFO]: Mod initialized!
+[02:40:05] [main/INFO]: [REI] Registered plugin provider CharmReiServerPlugin [charm] for REIPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIPlugin
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[02:40:05] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider CharmReiServerPlugin [charm] for REIServerPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIServerPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[02:40:05] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[02:40:05] [main/INFO]: [RER] RoughlyEnoughPacketSize?  Possibly.
+[02:40:05] [main/INFO]: Registering C2S receiver with id roughlyenoughresources:asi
+[02:40:05] [main/INFO]: Trying to read config file...
+[02:40:05] [main/INFO]: No config file found, creating a new one...
+[02:40:05] [main/INFO]: Successfully created default config file.
+[02:40:06] [main/INFO]: ".\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[02:40:06] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02:40:06] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[02:40:06] [main/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[02:40:06] [main/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[02:40:06] [main/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[02:40:06] [main/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[02:40:07] [main/INFO]: [STDOUT]: thonkutil-capes-v1 Init
+[02:40:07] [main/INFO]: Config loaded
+[02:40:07] [main/INFO]: Tom's Storage Setup starting
+[02:40:07] [main/INFO]: Constructing common components for mod tradingpost
+[02:40:07] [main/INFO]: Initializing Twigs
+[02:40:07] [main/INFO]: Initialized Twigs (took 240ms)
+[02:40:08] [main/INFO]: Constructing common components for mod visualworkbench
+[02:40:08] [main/INFO]: Loading up Void Totem (Fabric)
+[02:40:08] [main/INFO]: Loaded 5 Static Content files for wolveswitharmor:wolf_armor
+[02:40:08] [main/WARN]: Invalid config, creating new one!
+[02:40:09] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[02:40:09] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[02:40:09] [main/INFO]: [WTHIT] Registering plugin betternether:global at org.betterx.betternether.integrations.wthit.WailaPlugin
+[02:40:09] [main/INFO]: [betternether] Registering Waila-/Wthit-Plugin.
+[02:40:09] [main/INFO]: [WTHIT] Plugin config reloaded
+[02:40:09] [main/INFO]: [betterend] Registered betterend:old_bulbis_gardens
+[02:40:09] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[02:40:09] [main/INFO]: Could not load 'betterstats' config. File not found.
+[02:40:09] [main/INFO]: Loaded 'betterstats' config.
+[02:40:09] [main/INFO]: Could not load 'betterstats' config for the 'BSMobStatRenderConfig'. File not found.
+[02:40:09] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[02:40:10] [main/INFO]: Registering Compat Wood Blocks
+[02:40:10] [main/INFO]: Registering Compat Leaves Blocks
+[02:40:10] [main/INFO]: Registered 626 compat blocks making up 9.756858% of total blocks registered
+[02:40:10] [main/ERROR]: No data fixer registered for dispenser_minecart
+[02:40:10] [main/ERROR]: No data fixer registered for falling_urn
+[02:40:10] [main/ERROR]: No data fixer registered for falling_ash
+[02:40:10] [main/ERROR]: No data fixer registered for falling_lantern
+[02:40:10] [main/ERROR]: No data fixer registered for falling_sack
+[02:40:11] [main/ERROR]: No data fixer registered for brick_projectile
+[02:40:11] [main/ERROR]: No data fixer registered for bomb
+[02:40:11] [main/ERROR]: No data fixer registered for rope_arrow
+[02:40:11] [main/ERROR]: No data fixer registered for slingshot_projectile
+[02:40:11] [main/INFO]: Finished mod setup in: 93 ms
+[02:40:12] [main/INFO]: Loading Open Parties and Claims!
+[02:40:12] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02:40:13] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02:40:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:40:13] [main/INFO]: [worlds_together] Creating a new World, no fixes needed
+[02:40:13] [main/INFO]: [DataFixerAPI] Applying Patch{betternether:5.3.5:21020677}
+[02:40:13] [main/INFO]: [DataFixerAPI] Applying Patch{edenring:0.2.0:32768}
+[02:40:13] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'betternether' from 0.0.0 to 5.3.5
+[02:40:13] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'edenring' from 0.0.0 to 0.2.0
+[02:40:13] [main/INFO]: Preparing Data Pack injection.
+[02:40:13] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\dungeons-arise-1-19-v1-1.zip.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\ichphilipp-s-endcity-better-end-1-18-1.zip.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\Repurposed_Structures-Friends_And_Foes-v2.zip.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\Repurposed_Structures-More_Villagers_v7.zip.
+[02:40:14] [main/INFO]: Successfully injected 4/4 packs from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data.
+[02:40:14] [main/INFO]: Preparing Data Pack injection.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\dungeons-arise-1-19-v1-1.zip.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\ichphilipp-s-endcity-better-end-1-18-1.zip.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\Repurposed_Structures-Friends_And_Foes-v2.zip.
+[02:40:14] [main/INFO]: Loaded archive Data Pack from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data\Repurposed_Structures-More_Villagers_v7.zip.
+[02:40:14] [main/INFO]: Successfully injected 4/4 packs from C:\Users\me\Downloads\Better+MC+Server+Pack+FABRIC+1.19.2+v4\Better MC Server Pack FABRIC 1.19.2\.\config\openloader\data.
+[02:40:14] [main/INFO]: Found new data pack Everycomp Generated Pack, loading it automatically
+[02:40:14] [main/INFO]: Found new data pack Supplementaries Generated Pack, loading it automatically
+[02:40:14] [main/INFO]: ARRP register - before vanilla
+[02:40:14] [main/INFO]: ARRP register - after vanilla
+[02:40:14] [main/INFO]: Generated runtime SERVER_DATA for pack Everycomp Generated Pack in: 430 ms
+[02:40:14] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 69 ms
+[02:40:15] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (561170cb)
+    biomes     = 27
+    namespaces = betternether, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=square}
+[02:40:15] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:15] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:15] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (6d391199)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=square, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:15] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (6b40d6a1)
+    biomes     = 27
+    namespaces = betternether, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[02:40:15] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:15] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:15] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (7eb928d6)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:23] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:23] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:23] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (57a69634)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:23] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (19524f93)
+    biomes     = 27
+    namespaces = betternether, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[02:40:23] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:23] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:23] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[02:40:23] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:23] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:23] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (698b6fe7)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:24] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (3d1d1c78)
+    biomes     = 27
+    namespaces = betternether, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[02:40:24] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:24] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:24] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (22c42bbe)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:24] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (34a77788)
+    biomes     = 27
+    namespaces = betternether, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[02:40:24] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:24] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:24] [main/INFO]: Adding serverside commands..
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/epic.json,net.minecraft.class_3298@40730f67
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/legendary.json,net.minecraft.class_3298@203f3b8b
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/rare.json,net.minecraft.class_3298@6ef7adc0
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/common.json,net.minecraft.class_3298@3ca7ebed
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/uncommon.json,net.minecraft.class_3298@64f7d329
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/common.json,net.minecraft.class_3298@3656c1dd
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/legendary.json,net.minecraft.class_3298@178a9898
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/epic.json,net.minecraft.class_3298@6cdce9f7
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/rare.json,net.minecraft.class_3298@2810841e
+[02:40:26] [Worker-Main-6/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/uncommon.json,net.minecraft.class_3298@28c8f0e8
+[02:40:29] [main/ERROR]: Parsing error loading recipe supplementaries:soap/sleeping_bag
+com.google.gson.JsonSyntaxException: Unknown item 'comforts:white_sleeping_bag'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_35228(class_1869.java:240) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1867$class_1868.method_8142(class_1867.java:90) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1867$class_1868.method_8121(class_1867.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:958) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:946) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:156) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.0]
+[02:40:29] [main/ERROR]: Parsing error loading recipe creatures_of_the_snow:frozen_feather_block
+com.google.gson.JsonSyntaxException: Unknown item 'creatures_of_the_snow:chilloo_feather'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_8157(class_1869.java:233) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:265) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:260) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:958) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:946) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:156) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.0]
+[02:40:29] [main/INFO]: Loaded 18 recipes
+[02:40:29] [main/INFO]: ".\config\byg\settings.json5" was read.
+[02:40:30] [main/ERROR]: Couldn't parse loot table bountiful:blocks/bountyboard
+com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+	at net.minecraft.class_3518.method_15265(class_3518.java:119) ~[server-intermediary.jar:?]
+	at net.minecraft.class_134$class_136.method_605(class_134.java:112) ~[server-intermediary.jar:?]
+	at net.minecraft.class_134$class_136.method_530(class_134.java:101) ~[server-intermediary.jar:?]
+	at net.minecraft.class_120$class_123.method_528(class_120.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_120$class_123.method_517(class_120.java:88) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:473) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:149) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:473) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:210) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_60.method_20711(class_60.java:44) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.class_60.method_20712(class_60.java:42) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_18788(class_60.java:17) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:958) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:946) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:156) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.0]
+[02:40:31] [main/INFO]: Loaded 5863 advancements
+[02:40:31] [main/INFO]: Loaded 0 conditional recipes
+[02:40:31] [main/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [START], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[02:40:31] [main/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [START], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[02:40:31] [main/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 5 plugins in 165.7 ms.
+[02:40:31] [main/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 5 plugins in 3.426 ms.
+[02:40:31] [main/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [END], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[02:40:31] [main/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [END], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[02:40:31] [main/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 5 plugins in 139.4 ms.
+[02:40:31] [main/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 5 plugins in 24.44 ms.
+[02:40:31] [main/INFO]: Loaded  8 flute songs
+[02:40:39] [main/INFO]: Finished additional setup in 0 seconds
+[02:40:39] [main/INFO]: Mixing server.MixinDedicatedServer from nochatreports.mixins.json into net.minecraft.class_3176
+[02:40:39] [main/INFO]: Mixing server.MixinPlayerList from nochatreports.mixins.json into net.minecraft.class_3324
+[02:40:39] [main/INFO]: Mixing common.MixinServerStatus from nochatreports.mixins.json into net.minecraft.class_2926
+[02:40:39] [main/INFO]: ".\config\byg\nether-biomes.json5" was read.
+[02:40:39] [main/INFO]: ".\config\byg\end-biomes.json5" was read.
+[02:40:39] [main/INFO]: Applied 3053 biome modifications to 205 of 205 new biomes in 127.5 ms
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:arisian_undergrowth
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:brimstone_caverns
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:crimson_gardens
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:embur_bog
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:glowstone_gardens
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:magma_wastes
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:quartz_desert
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:subzero_hypogeal
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:sythian_torrids
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:wailing_garth
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:warped_desert
+[02:40:39] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:weeping_mire
+[02:40:39] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:40] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:bulbis_gardens
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:cryptic_wastes
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:ethereal_islands
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:imparius_grove
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:ivis_fields
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:nightshade_forest
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:shulkren_forest
+[02:40:40] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:viscal_isles
+[02:40:40] [main/INFO]: ".\config\byg\surface_rules\end_surface_rules.json5" was read.
+[02:40:40] [main/INFO]: ".\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[02:40:40] [main/INFO]: ".\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[02:40:40] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[02:40:40] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[02:40:40] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[02:40:40] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[02:40:40] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[02:40:40] [Server thread/WARN]: Configuration file .\world\serverconfig\barteringstation-server.toml is not correct. Correcting
+[02:40:40] [Server thread/WARN]: Incorrect key vertical_range was corrected from null to its default, 4. 
+[02:40:40] [Server thread/WARN]: Incorrect key horizontal_range was corrected from null to its default, 12. 
+[02:40:40] [Server thread/WARN]: Incorrect key barter_delay was corrected from null to its default, 300. 
+[02:40:40] [Server thread/INFO]: Loading server config for barteringstation
+[02:40:40] [Server thread/WARN]: Configuration file .\world\serverconfig\bettertridents-server.toml is not correct. Correcting
+[02:40:40] [Server thread/WARN]: Incorrect key return_trident_from_void was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key loyalty_captures_drops was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key boost_impaling was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key repair_tridents was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key return_trident_to_slot was corrected from null to its default, true. 
+[02:40:40] [Server thread/INFO]: Loading server config for bettertridents
+[02:40:40] [Server thread/WARN]: Configuration file .\world\serverconfig\easymagic-server.toml is not correct. Correcting
+[02:40:40] [Server thread/WARN]: Incorrect key max_enchanting_power was corrected from null to its default, 15. 
+[02:40:40] [Server thread/WARN]: Incorrect key reroll_enchantments was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key enchantment_hint was corrected from null to its default, SINGLE. 
+[02:40:40] [Server thread/WARN]: Incorrect key reroll_lapis_lazuli_cost was corrected from null to its default, 1. 
+[02:40:40] [Server thread/WARN]: Incorrect key reroll_experience_points_cost was corrected from null to its default, 5. 
+[02:40:40] [Server thread/WARN]: Incorrect key lenient_bookshelves was corrected from null to its default, true. 
+[02:40:40] [Server thread/INFO]: Loading server config for easymagic
+[02:40:40] [Thread-1/INFO]: Reloading server config for easymagic
+[02:40:40] [Thread-1/INFO]: Reloading server config for easymagic
+[02:40:40] [Server thread/WARN]: Configuration file .\world\serverconfig\magnumtorch-server.toml is not correct. Correcting
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.mob_whitelist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.mob_blacklist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.shape_type was corrected from null to its default, ELLIPSOID. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.vertical_range was corrected from null to its default, 32. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.blocked_spawn_types was corrected from null to its default, [NATURAL, PATROL, STRUCTURE, JOCKEY]. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.mob_category was corrected from null to its default, [MONSTER]. 
+[02:40:40] [Server thread/WARN]: Incorrect key diamond_torch.horizontal_range was corrected from null to its default, 64. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.mob_whitelist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.mob_blacklist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.shape_type was corrected from null to its default, CUBOID. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.vertical_range was corrected from null to its default, 64. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.blocked_spawn_types was corrected from null to its default, [NATURAL, EVENT]. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.mob_category was corrected from null to its default, [CREATURE]. 
+[02:40:40] [Server thread/WARN]: Incorrect key emerald_torch.horizontal_range was corrected from null to its default, 128. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.mob_whitelist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.mob_blacklist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.shape_type was corrected from null to its default, ELLIPSOID. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.vertical_range was corrected from null to its default, 32. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.blocked_spawn_types was corrected from null to its default, [NATURAL]. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.mob_category was corrected from null to its default, [AMBIENT, AXOLOTLS, WATER_AMBIENT, WATER_CREATURE, UNDERGROUND_WATER_CREATURE]. 
+[02:40:40] [Server thread/WARN]: Incorrect key amethyst_torch.horizontal_range was corrected from null to its default, 64. 
+[02:40:40] [Server thread/INFO]: Loading server config for magnumtorch
+[02:40:40] [Server thread/WARN]: Configuration file .\world\serverconfig\tradingpost-server.toml is not correct. Correcting
+[02:40:40] [Server thread/WARN]: Incorrect key horizontal_range was corrected from null to its default, 24. 
+[02:40:40] [Server thread/WARN]: Incorrect key enforce_range was corrected from null to its default, false. 
+[02:40:40] [Server thread/WARN]: Incorrect key teleport_xp was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key vertical_range was corrected from null to its default, 16. 
+[02:40:40] [Server thread/WARN]: Incorrect key trader_blacklist was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key close_empty_screen was corrected from null to its default, true. 
+[02:40:40] [Server thread/INFO]: Loading server config for tradingpost
+[02:40:40] [Server thread/WARN]: Configuration file .\world\serverconfig\openpartiesandclaims-server.toml is not correct. Correcting
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.autosaveInterval was corrected from null to its default, 10. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties.enabled was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties.maxPartyMembers was corrected from null to its default, 64. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties.maxPartyAllies was corrected from null to its default, 64. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties.maxPartyInvites was corrected from null to its default, 16. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties.partyExpirationTime was corrected from null to its default, 168. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.parties.partyExpirationCheckInterval was corrected from null to its default, 360. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.enabled was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.playerClaimsExpirationTime was corrected from null to its default, 8760. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.playerClaimsExpirationCheckInterval was corrected from null to its default, 360. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.playerClaimsConvertExpiredClaims was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaims was corrected from null to its default, 500. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaimForceloads was corrected from null to its default, 10. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaimsFTBPermission was corrected from null to its default, xaero.pac_max_claims. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.maxPlayerClaimForceloadsFTBPermission was corrected from null to its default, xaero.pac_max_forceloads. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.maxClaimDistance was corrected from null to its default, 5. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.claimableDimensionsListType was corrected from null to its default, ALL_BUT. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.claimableDimensionsList was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.allowExistingClaimsInUnclaimableDimensions was corrected from null to its default, true. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.allowExistingForceloadsInUnclaimableDimensions was corrected from null to its default, false. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.claimsSynchronization was corrected from null to its default, ALL. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.friendlyChunkProtectedEntityListType was corrected from null to its default, ALL_BUT. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.friendlyChunkProtectedEntityList was corrected from null to its default, [minecraft:boat]. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.hostileChunkProtectedEntityListType was corrected from null to its default, ONLY. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.hostileChunkProtectedEntityList was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.blockProtectionExceptionList was corrected from null to its default, [minecraft:lever, minecraft:stone_button, minecraft:polished_blackstone_button, minecraft:oak_button, minecraft:spruce_button, minecraft:birch_button, minecraft:jungle_button, minecraft:acacia_button, minecraft:dark_oak_button, minecraft:crimson_button, minecraft:warped_button]. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.entityProtectionExceptionList was corrected from null to its default, [minecraft:villager, force$minecraft:minecart]. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.additionalBannedItemsList was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.claims.protection.itemUseProtectionExceptionList was corrected from null to its default, []. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.playerConfigurablePlayerConfigOptions was corrected from null to its default, [playerConfig.claims.protectClaimedChunks, playerConfig.claims.protection.fromParty, playerConfig.claims.protection.fromAllyParties, playerConfig.claims.forceload.enabled, playerConfig.claims.name, playerConfig.claims.color, playerConfig.parties.name, playerConfig.parties.shareLocationWithParty, playerConfig.parties.shareLocationWithMutualAllyParties, playerConfig.parties.receiveLocationsFromParty, playerConfig.parties.receiveLocationsFromMutualAllyParties]. 
+[02:40:40] [Server thread/WARN]: Incorrect key serverConfig.opConfigurablePlayerConfigOptions was corrected from null to its default, [playerConfig.claims.bonusChunkClaims, playerConfig.claims.bonusChunkForceloads]. 
+[02:40:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
+[02:40:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
+[02:40:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
+[02:40:40] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
+[02:40:40] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
+[02:40:47] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[02:40:47] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event firing...
+[02:40:47] [Server thread/INFO]: ".\config\byg\growing-patterns.json5" was read.
+[02:40:47] [Server thread/INFO]: ".\config\byg\trades.json5" was read.
+[02:40:47] [Server thread/INFO]: ".\config\byg\biomepedia.json5" was read.
+[02:40:48] [Server thread/INFO]: Created compressed zip back up for ".\config\byg" in ".\config\byg\backups\last_working_configs_backup.zip"
+[02:40:48] [Server thread/INFO]: BYG: Compostible Blocks Added!
+[02:40:48] [Server thread/INFO]: BYG: Added tillables!
+[02:40:48] [Server thread/INFO]: BYG: Added Flammables!
+[02:40:48] [Server thread/INFO]: BYG: Added strippable Blocks...
+[02:40:48] [Server thread/INFO]: BYG: "Load Complete" Event Complete!
+[02:40:48] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event complete!
+[02:40:48] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[02:40:48] [Server thread/INFO]: Loading properties
+[02:40:48] [Server thread/INFO]: Default game type: SURVIVAL
+[02:40:48] [Server thread/INFO]: Generating keypair
+[02:40:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:40:48] [Server thread/INFO]: Using default channel type
+[02:40:48] [Server thread/INFO]: Preparing level "world"
+[02:40:48] [Server thread/INFO]: Initializing Open Parties and Claims for the server...
+[02:40:48] [Server thread/INFO]: Loading server info!
+[02:40:48] [Server thread/INFO]: Loading player configs...
+[02:40:48] [Server thread/INFO]: Loaded player configs!
+[02:40:48] [Server thread/INFO]: Loading parties...
+[02:40:48] [Server thread/INFO]: Loaded parties!
+[02:40:48] [Server thread/INFO]: Fixing party inconsistencies...
+[02:40:48] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_nether
+    BCLib - Nether BiomeSource (5e768366)
+        biomes     = 39
+        namespaces = betternether, byg, minecraft
+        seed       = 0
+        height     = 0
+        config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[02:40:48] [Server thread/INFO]: [bclib] 
+Apply Modifications for edenring:edenring
+    EdenBiomeSource (77bbb9fd)
+        biomes     = 12
+        namespaces = edenring
+[02:40:48] [Server thread/INFO]: [bclib] 
+Apply Modifications for voidz:void
+    class_1992 (65df817a)
+        biomes     = 1
+        namespaces = minecraft
+[02:40:48] [Server thread/INFO]: [bclib] 
+Apply Modifications for the_bumblezone:the_bumblezone
+    BzBiomeProvider (6db85003)
+        biomes     = 5
+        namespaces = the_bumblezone
+[02:40:48] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (729f388)
+        biomes     = 53
+        namespaces = minecraft, galosphere
+[02:40:48] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_end
+    BCLib - The End BiomeSource (17c585e3)
+        biomes     = 40
+        namespaces = betterend, byg, minecraft
+        seed       = 0
+        height     = 0
+        deciders   = 1
+        config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:48] [Server thread/INFO]: [bclib] World Dimensions: 
+ - minecraft:the_nether: 
+     BCLib - Chunk Generator (1de976fd) 
+     BCLib - Nether BiomeSource (5e768366)
+         biomes     = 39
+         namespaces = betternether, byg, minecraft
+         seed       = 0
+         height     = 0
+         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+ - edenring:edenring: 
+     net.minecraft.class_3754@5815775c 
+     EdenBiomeSource (77bbb9fd)
+         biomes     = 12
+         namespaces = edenring
+ - voidz:void: 
+     net.voidz.dimension.VoidChunkGenerator@1a0a8aea 
+     class_1992 (65df817a)
+         biomes     = 1
+         namespaces = minecraft
+ - the_bumblezone:the_bumblezone: 
+     com.telepathicgrunt.the_bumblezone.world.dimension.BzChunkGenerator@1ee4657f 
+     BzBiomeProvider (6db85003)
+         biomes     = 5
+         namespaces = the_bumblezone
+ - minecraft:overworld: 
+     net.minecraft.class_3754@49ba645d 
+     class_4766 (729f388)
+         biomes     = 53
+         namespaces = minecraft, galosphere
+ - minecraft:the_end: 
+     BCLib - Chunk Generator (662d1d21) 
+     BCLib - The End BiomeSource (17c585e3)
+         biomes     = 40
+         namespaces = betterend, byg, minecraft
+         seed       = 0
+         height     = 0
+         deciders   = 1
+         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[02:40:49] [Server thread/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
